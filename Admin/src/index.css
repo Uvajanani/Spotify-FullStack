@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  align-items: flex-start;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  height: 100vh;
+  overflow-y: scroll;
+  background-color: #F3FFF7;
+}
+
+.content-padding {
+  padding-top: 2rem;
+  padding-left: 1.25rem;
+}
+
+@media (min-width: 640px) {
+  .content-padding {
+    padding-top: 3rem;
+    padding-left: 3rem;
+  }
+}
