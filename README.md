@@ -51,7 +51,7 @@ A full-featured Spotify-like music streaming platform where users can browse alb
 
       ```bash
       git clone https://github.com/Uvajanani/Spotify-FullStack.git
-      cd spotify-clone
+      cd Spotify-FullStack
 2. **Install frontend & backend dependencies**
 
 - Backend
