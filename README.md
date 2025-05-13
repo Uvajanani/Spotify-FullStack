@@ -56,7 +56,7 @@ A full-featured Spotify-like music streaming platform where users can browse alb
 
 - Backend
   ```Bash
-  cd server
+  cd Backend
   npm install
 
 - Frontend
